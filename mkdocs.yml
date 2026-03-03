@@ -1,0 +1,15 @@
+site_name: Soflan Notes
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - Preface: preface.md
+  - Terminologies: terminology.md
+  - Beginner:
+    - Hi-Speed: hi-speed.md
+
+plugins:
+  - search
