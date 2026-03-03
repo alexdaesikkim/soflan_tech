@@ -9,7 +9,9 @@ nav:
   - Preface: preface.md
   - Terminologies: terminology.md
   - Beginner:
-    - Hi-Speed: hi-speed.md
+    - Hi-Speed (Basics): hi-speed_basics.md
+    - Hi-Speed Value: hi-speed_value.md
+    - Hi-Speed Normal vs Classic: hi-speed_normal_or_classic.md
 
 plugins:
   - search
