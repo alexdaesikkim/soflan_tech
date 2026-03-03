@@ -1,17 +1,17 @@
 site_name: Soflan Notes
-theme:
-  name: material
-  features:
-    - navigation.tabs
+#theme:
+#  name: material
+#  features:
+#    - navigation.tabs
 
 nav:
   - Home: index.md
   - Preface: preface.md
   - Terminologies: terminology.md
   - Beginner:
-    - Hi-Speed (Basics): hi-speed_basics.md
-    - Hi-Speed Value: hi-speed_value.md
-    - Hi-Speed Normal vs Classic: hi-speed_normal_or_classic.md
+    - Hi-Speed (Basics): 1_beginner/hi-speed_basics.md
+    - Hi-Speed Value: 1_beginner/hi-speed_value.md
+    - Hi-Speed Normal vs Classic: 1_beginner/hi-speed_normal_or_classic.md
 
 plugins:
   - search
