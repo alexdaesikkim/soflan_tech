@@ -9,17 +9,18 @@ With Normal Hi-Speed and Floating Hi-Speed, this value changes based on your tot
 ## Understanding the basic correlation
 The reason why I want to focus on this value is because many calculations that you may require throughout different soflan songs depends on this Hi-Speed Value.
 
-To dive deeper, the GN value is mostly based off of these two factors:
-- Total WN value
-- Hi-Speed Value
+To dive deeper, the GN is based off of the following calculation:
+BPM X HI-SPEED VALUE = 175* X (1000 - WN) / GN
 
-In short, they are related. Changing one value will have some effect on other.
+(*the 175 is the rough estimate)
+
+In short, changing one value will have some effect on other to keep the formulat the same.
 
 For example, lets take Floaing Hi-Speed. FHS keeps the same GN regardless of your WN value. The game achieves this by changing the Hi-Speed Value when you change your WN (GN stays constant). Another example is Classic Hi-Speed: Changing the Hi-Speed Value under Classic Hi-Speed using black/white keys will keep the WN constant, but change the GN.
 
 It's enough to recognize that Hi-Speed Value itself plays a role in calculating the WN/GN. If there is some value (let's call this base value), the calculations are done as follows:
-- With Classic Hi-Speed, GN calculation is based off of the current Hi-Speed Value and the WN
-- With other modes, the Hi-Speed Value calculation is based off of the current GN and WN
+* With Classic Hi-Speed, GN calculation is based off of the current Hi-Speed Value and the WN
+* With other modes, the Hi-Speed Value calculation is based off of the current GN and WN
 
 While there are few places where they deep dive into the actual formula, I'm not going to dive into that here as I think the actual formula is irrelevant in relation to soflan techniques. Instead, I'll keep it simple with the below fact:
 

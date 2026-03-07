@@ -7,6 +7,7 @@ For specific terminologies used on this page, refer to [Terminology section](../
 
 ## Different Hi-Speed modes
 Currently, IIDX has 3 different Hi-Speed modes that you can choose from:
+
 - Normal Hi-Speed
 - Classic Hi-Speed
 - Floating Hi-Speed 
@@ -14,6 +15,7 @@ Currently, IIDX has 3 different Hi-Speed modes that you can choose from:
 During song select, you can select the option between Normal Hi-Speed and Classic Hi-Speed. You can turn on floating in-game by holding down START + pressing EFFECT.
 
 So the two ways the Hi-Speeds will work are:
+
 - Normal Hi-Speed ↔ Floating Hi-Speed
 - Classic Hi-Speed ↔ Floating Hi-Speed
 

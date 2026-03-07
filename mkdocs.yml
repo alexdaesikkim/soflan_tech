@@ -12,6 +12,7 @@ nav:
     - Hi-Speed (Basics): 1_beginner/hi-speed_basics.md
     - Hi-Speed Value: 1_beginner/hi-speed_value.md
     - Hi-Speed Normal vs Classic: 1_beginner/hi-speed_normal_or_classic.md
-
+  - Normal:
+    - Floating (Basics): 2_normal/floating.md
 plugins:
   - search
